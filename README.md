@@ -1,4 +1,4 @@
-### Hi there 👋
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:201114leb@dsm.hs.kr)](mailto:201114leb@dsm.hs.kr)
 
 <!--
 **dlswer23/dlswer23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
